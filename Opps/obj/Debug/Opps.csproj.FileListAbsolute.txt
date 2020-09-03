@@ -1,0 +1,2 @@
+C:\Users\Rajib\Source\Repos\Opps\Opps\obj\Debug\Opps.csprojAssemblyReference.cache
+C:\Users\Rajib\Source\Repos\Opps\Opps\obj\Debug\Opps.csproj.CoreCompileInputs.cache
